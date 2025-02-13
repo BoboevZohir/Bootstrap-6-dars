@@ -1,0 +1,48 @@
+.p{
+    background: linear-gradient(pink,purple);
+}
+.m{
+    text-align: center;
+}
+.l{
+    text-align: center;
+}
+.b{
+    border-radius: 20px;
+    background: radial-gradient(pink,purple);
+    width: 200px;
+    height: 40px;
+}
+.q{
+   background-color: rgb(88, 88, 240); 
+}
+.n{
+    background-color: white;
+    color: blue;
+    border-radius: 20px;
+    border: 1px solid blue;
+    width: 200px;
+    height: 40px;
+}
+.v{
+    background-color: white;
+    color: red;
+    border-radius: 20px;
+    border: 1px solid red;
+    width: 200px;
+    height: 40px;
+}
+.w{
+    background: radial-gradient(yellow,pink);
+}
+.z{
+    background-color: rgb(88, 88, 240);
+}
+.c{
+    background-color: white;
+    color: blue;
+    border-radius: 20px;
+    border: 1px solid blue;
+    width: 200px;
+    height: 40px;
+}
